@@ -47,6 +47,8 @@ To assess how single amino acid substitutions affect protein function and struct
 ## Business Impact
 Provides valuable insights for predicting genetic mutations that affect protein function. The findings can help guide research into **genetic diseases**, **mutation prediction**, and **precision medicine**. 
 
+---
+
 ## Files in this Repository
 - `protein_mutation_analysis.ipynb` – Colab notebook with full code and analysis
 - `sift_functional_mutation_scores.tsv` – Functional prediction dataset
