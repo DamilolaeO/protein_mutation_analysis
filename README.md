@@ -44,7 +44,7 @@ To assess how single amino acid substitutions affect protein function and struct
 
 ---
 
-## Business Impact
+## Study Impact
 Provides valuable insights for predicting genetic mutations that affect protein function. The findings can help guide research into **genetic diseases**, **mutation prediction**, and **precision medicine**. 
 
 ---
