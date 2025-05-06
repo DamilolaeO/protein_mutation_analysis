@@ -33,8 +33,8 @@ To assess how single amino acid substitutions affect protein function and struct
 ## Key Findings
 - Successfully created a unique mutation identifier (`specific_Protein_aa`) and merged the two datasets.
 - Filtered for mutations with a **SIFT score < 0.05** and **FoldX score > 2**, identifying those that impact both structure and function.
-- Arginine and Leucine were among the amino acids most frequently affected.
-- Amino acids with more than 100 damaging mutations tended to have key structural or functional roles, highlighting their evolutionary sensitivity.
+- Glycine and Leucine were among the amino acids most frequently affected.
+- Amino acids with more than 100 occurrences tend to be small and flexible (e.g., Glycine) or highly reactive (e.g., Cysteine). These properties make them prone to mutations that significantly alter protein structure and function.
 
 ---
 
