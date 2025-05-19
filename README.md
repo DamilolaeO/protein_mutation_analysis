@@ -66,4 +66,4 @@ Dataset obtained from Galardini et al. (2019). *The impact of genetic variation 
 
 ## Author
 **Damilola Ogungbemi**  
-MSc Biotechnology | Aspiring Data Scientist | *Passionate about using data for public good in healthcare and policy*.
+MSc Biotechnology | Data Scientist | *Passionate about using data for public good in healthcare and policy*.
